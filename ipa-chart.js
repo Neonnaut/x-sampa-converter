@@ -43,7 +43,6 @@ function translateIPA() {
     document.getElementById("sampa-box").value = i2x(s);
 }
 
-// Base XSAMPA → IPA
 let xti_entries = {
     "a_\"": "ä",
     "b_<": "ɓ",

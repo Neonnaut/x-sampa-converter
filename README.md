@@ -1,4 +1,4 @@
-# XSAMPA and IPA Converter
+# X-SAMPA and IPA Converter
 
 As used in https://neonnaut.neocities.org/ipa-keyboard
 
