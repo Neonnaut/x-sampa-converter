@@ -31,4 +31,4 @@ A backslash `\` is used to move diacritics to a non-default position. For exampl
 
 A backslash `\` is also used to turn tone diacritics into Chao letters. For example `a_H` gives `á` while `a_H\` gives `a˦`.
 
-A plus sign `+` is used before a character to make it superscript. For example `+a` gives `ᵃ`. It only works for some letters that have a superscript form in Unicode. For numbers except for 6, 8 and 9, it forms a superscript number. For example `+1` gives `¹`.
+A plus sign `+` is used before a character to make it superscript. For example `+a` gives `ᵃ`. It only works for some letters that have a superscript form in Unicode. For numbers, it forms a superscript number. For example `h+1` gives `h¹`.
